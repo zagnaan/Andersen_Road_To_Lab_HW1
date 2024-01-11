@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
 
-                    val imageUrl = "https://xsport.ua/upload/resize_cache/iblock/19d/916_537_2/19d7b456ece19606db94643e34357117.jpg"
+                    val imageUrl = "https://m.kickz4u.ru/pictures/news/21690.jpg"
                     PicassoImage(url = imageUrl)
                 }
             }
